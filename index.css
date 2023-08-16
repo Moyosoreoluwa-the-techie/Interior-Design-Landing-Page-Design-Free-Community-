@@ -1,0 +1,426 @@
+body{
+
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  color:white;
+}
+header
+{
+  color:white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+.about
+{
+    color: #6D7D7D;
+font-family: Kanit;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 6.88px;
+}
+.about1
+{
+    width: 953px;
+    color: #FFF;
+font-family: Kanit;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.image1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap:10px;
+}
+.pool
+{
+    margin-top: 50px;
+    
+}
+
+.not
+{
+    width: 1140px;
+height: 442px;
+flex-shrink: 0;
+}
+.texts{
+    margin-top: 100px;
+}
+.one
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap:20px;
+  
+}
+.image2
+{
+    margin-bottom: 40px;
+}
+.image1
+{
+    margin-bottom: 40px;
+}
+.set
+{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    align-items: center;
+}
+.text17
+{
+    width: 412px;
+}
+.section6{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap:20px;
+}
+.social
+{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-between;
+}
+.tip1
+{
+    margin-left: 40px;
+}
+.header
+{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /* background: ; */
+}
+
+.hero{
+    height: 100vh;
+    background-image: url('BG.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header1
+{
+    margin-top: 100px;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    /* background: ; */
+}
+.center1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 220px;
+}
+.center2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.others
+{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap:20px;
+}
+footer
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.text99
+{
+    width: 479px;
+}
+.minor
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap:25px;
+    margin-left: 30px;
+}
+.last
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.box8
+{display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap:20px;
+
+}
+.section8{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap:20px;
+}
+.section66{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.text18
+{
+    width: 440px;
+    color: #FFF;
+text-align: center;
+font-family: Kanit;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 300px;
+}
+.section_6
+{
+    display: flex;
+    flex-direction: row;
+}
+.image_7
+{
+    width:250px;
+    height:250px;
+}
+.mine
+{
+    color: #FFF;
+font-family: Kanit;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 6.88px;
+height:200px;
+width:200px;
+}
+.part3
+{
+   margin-left: 50px;
+}
+.section4
+{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: start;
+    gap:50px;
+}
+.dove1
+{
+    display: flex;
+    flex-direction: row;
+   
+}
+.text13
+{
+    color: #6D7D7D;
+font-family: Kanit;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 6.88px;
+}
+.section3
+{
+    display: flex;
+    flex-direction: row;
+  justify-content: start;
+    align-items: center;
+   
+}
+.img1{
+    margin-left: 45px;
+}
+.set1
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.text11
+{
+    color: #6D7D7D;
+text-align: center;
+font-family: Alex Brush;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.text10
+{
+    color: #6D7D7D;
+text-align: center;
+font-family: Martel Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.copy
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap:20px;
+}
+.text7
+{
+    width: 440px;
+    color: #FFF;
+font-family: Kanit;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.part2
+{
+    gap:40px;
+    align-items: start;
+}
+.section3{
+    width: 1140px;
+height: 571px;
+flex-shrink: 0;
+gap:10px;
+}
+.text8
+{
+    width: 440px;
+    color: #FFF;
+font-family: Nunito;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.team
+{
+    color: #6D7D7D;
+font-family: Kanit;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 6.88px;
+}
+.button1
+{
+    width: 269px;
+height: 39px;
+flex-shrink: 0;
+border-radius: 100px;
+border: 1px solid #6D7D7D;
+background: rgba(255, 255, 255, 0.00);
+}
+.text3
+{
+    width: 519px;
+    color: #FFF;
+font-family: Kanit;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.section1
+{
+    margin-left: 90px;
+}
+.section2
+{
+    width: 1136px;
+height: 318px;
+flex-shrink: 0;
+border-radius: 50px 50px 0px 50px;
+background: #6D7D7D;
+display: flex;
+flex-direction: row;
+flex-direction: row;
+}
+.texts
+{
+   /* margin-bottom: 150px; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap:20px;
+   
+}
+button{
+    width: 229px;
+height: 39px;
+flex-shrink: 0;
+border-radius: 100px;
+border: 1px solid #6D7D7D;
+background: rgba(255, 255, 255, 0.00);
+color: #FFF;
+text-align: center;
+font-family: Kanit;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 6.88px;
+}
+.image3
+{
+    margin-bottom: 200px;
+}
+.about2
+{
+    width: 513px;
+    color: #FFF;
+font-family: Nunito;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
